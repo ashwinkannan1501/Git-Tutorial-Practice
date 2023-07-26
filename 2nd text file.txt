@@ -1,0 +1,5 @@
+This is the 2nd text file to practice the git commands
+
+I am K. Ashwin and i am a 21 year old software engineer
+
+I studied in Panimalar Engineer College.
